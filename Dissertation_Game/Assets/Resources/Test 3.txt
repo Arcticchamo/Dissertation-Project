@@ -1,0 +1,44 @@
+  Time       P              A             D             Emotion        Action
+22:59:36     0              0             0             Neutral        No Action
+22:59:46     0.01           0.03          0             PassiveHappy   Food Increase
+22:59:55     0.01           0.03          0.01          PassiveHappy   Clean Increase
+23:00:01     0.04           0.03          0.01          PassiveHappy   Interaction
+23:00:01     0.07           0.03          0.01          PassiveHappy   Interaction
+23:00:05     0.07           0.04          0.02          PassiveHappy   Drink Increase
+23:04:15     0.07           0.03          0.01          PassiveHappy   Drink Decrease
+23:04:46     0.06           0.02          0.01          PassiveHappy   Food Decrease
+23:05:45     0.06           0.02          0             PassiveHappy   Clean Decrease
+23:06:41     0.03           0.02          0             PassiveHappy   No Interaction
+23:08:25     0.03           0.01          -0.01         Dependant      Drink Decrease
+23:09:46     0.02           0             -0.01         Docile         Food Decrease
+23:11:35     0.02           0             -0.02         Docile         Clean Decrease
+23:12:35     0.02           -0.01         -0.03         Docile         Drink Decrease
+23:13:21     -0.009999996   -0.01         -0.03         PassiveSad     No Interaction
+23:14:46     -0.02          -0.02         -0.03         PassiveSad     Food Decrease
+23:16:45     -0.02          -0.03         -0.04         PassiveSad     Drink Decrease
+23:17:25     -0.02          -0.03         -0.05         PassiveSad     Clean Decrease
+23:19:46     -0.03          -0.04         -0.05         PassiveSad     Food Decrease
+23:20:01     -0.05999999    -0.04         -0.05         PassiveSad     No Interaction
+23:20:55     -0.05999999    -0.05         -0.05999999   PassiveSad     Drink Decrease
+23:23:15     -0.05999999    -0.05         -0.06999999   PassiveSad     Clean Decrease
+23:24:46     -0.06999999    -0.05999999   -0.06999999   PassiveSad     Food Decrease
+23:25:05     -0.06999999    -0.06999999   -0.07999999   PassiveSad     Drink Decrease
+23:26:41     -0.09999999    -0.06999999   -0.07999999   PassiveSad     No Interaction
+23:29:05     -0.09999999    -0.06999999   -0.08999999   PassiveSad     Clean Decrease
+23:29:15     -0.09999999    -0.07999999   -0.09999999   PassiveSad     Drink Decrease
+23:29:45     -0.11          -0.08999999   -0.09999999   PassiveSad     Food Decrease
+23:33:20     -0.14          -0.08999999   -0.09999999   PassiveSad     No Interaction
+23:33:25     -0.14          -0.09999999   -0.11         PassiveSad     Drink Decrease
+23:34:45     -0.15          -0.11         -0.11         PassiveSad     Food Decrease
+23:34:55     -0.15          -0.11         -0.12         PassiveSad     Clean Decrease
+23:37:35     -0.15          -0.12         -0.13         PassiveSad     Drink Decrease
+23:39:45     -0.16          -0.13         -0.13         PassiveSad     Food Decrease
+23:39:56     -0.15          -0.09999998   -0.13         PassiveSad     Food Increase
+23:40:00     -0.18          -0.09999998   -0.13         PassiveSad     No Interaction
+23:40:07     -0.18          -0.09999998   -0.12         PassiveSad     Clean Increase
+23:40:21     -0.18          -0.08999998   -0.11         PassiveSad     Drink Increase
+23:40:25     -0.15          -0.08999998   -0.11         PassiveSad     Interaction
+23:40:25     -0.12          -0.08999998   -0.11         PassiveSad     Interaction
+23:40:25     -0.08999999    -0.08999998   -0.11         PassiveSad     Interaction
+
+41 16

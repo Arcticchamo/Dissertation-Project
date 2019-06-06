@@ -1,0 +1,61 @@
+﻿
+
+Primary Objectives:
+
+Naming the pet upon creating a new save 
+//	Implement the main menu 
+		
+Basic player actions such as feeding, watering and cleaning
+//	Fix up rebounding and finalise 
+
+Basic saving and loading of the game
+//	Have the game save data when quitting
+
+A semi-realistic environment which will house the pet
+//	Model the environment 
+
+
+
+Basic interaction and reaction to the house pet
+// Have the hamster animate passivly 
+
+Dilemmas within the game to create a challenge
+//	A result to not looking after the hamster properly 
+
+Use for Android platforms
+//	Build for Android 
+
+Clear UI of information about the pet
+//	Revamp the UI to be clearer
+
+
+
+
+Secondary Objectives (If time allows):
+
+Improvement of the simulation:
+Improved reaction and movement from the house pet
+Consequences for player's mishandling 
+Improvements to overall layout of the games features
+Optimisation of the game for more platforms
+Added effects that show current state of the pet (including information displayed on the UI)
+
+
+m_animator.SetRotate(0);
+                if ((System.Math.Round(m_transform.position.x, 2) == System.Math.Round(m_nodes[1].position.x, 2)) &&
+                    (System.Math.Round(m_transform.position.z, 2) == System.Math.Round(m_nodes[1].position.z, 2)))
+                {
+                    m_nodebool[1] = false;
+                    m_rotation = false;
+                }
+                else
+                {
+                    m_movement.MovePlayer(m_nodes[1].position);
+
+                    if ((System.Math.Round(m_transform.position.x, 2) == System.Math.Round(m_nodes[1].position.x, 2)) &&
+                        (System.Math.Round(m_transform.position.z, 2) == System.Math.Round(m_nodes[1].position.z, 2)))
+                    {
+                        m_nodebool[1] = false;
+                        m_rotation = false;
+                    }
+                }
